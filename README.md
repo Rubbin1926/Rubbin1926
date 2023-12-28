@@ -21,7 +21,6 @@ I'm a lazzzzzzzzzy boy.
 
 ## ✨Using IDE
 
-> All professional Edition
 
 - Visual Studio
 - IDEA
