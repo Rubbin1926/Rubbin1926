@@ -12,7 +12,7 @@ I'm a lazzzzzzzzzy boy.
 
 ## 😇"Wishlist"(lazzzzzzy)
 
-<img align="right" src="">
+<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=Rubbin1926&layout=compact">
 
 
 - Reinforcement Learning
