@@ -26,7 +26,7 @@ I'm a lazzzzzzzzzy boy.
 - IDEA
 - PyCharm
 
-## 💬社交账户
+## 💬Social
 [![BiliBili](https://img.shields.io/badge/-佐倉双葉_Official-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/259101880) [![Steam](https://img.shields.io/badge/-San1täter-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/profiles/76561199140724434/)
 
 __Play CS2 & Hearts of Iron IV__
