@@ -31,6 +31,6 @@ I'm a lazzzzzzzzzy boy.
 
 __Play CS2 & Hearts of Iron IV__
 
-__Playing Arma3 recently__
+__Playing Maimai DX recently__
 
 sleeping ZZZZZZZ
