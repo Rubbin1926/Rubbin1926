@@ -4,7 +4,7 @@
 
 My English is not so good.
 
-I'm now a student in PRC.
+I'm now a MSc student in SG.
 
 I'm a lazzzzzzzzzy boy.
 
